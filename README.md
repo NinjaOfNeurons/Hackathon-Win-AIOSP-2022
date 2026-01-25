@@ -59,9 +59,12 @@ Output:
 
 The figure below illustrates representative respiratory cycles extracted from the original audio recordings, demonstrating clear separation of individual breathing patterns.
 
-![alt text](/assets/confusionMatrix.png)
-```
+
 ![alt text](assets/image.png)
+
+
+![alt text](/assets/confusionMatrix.png)
+
 ```
 
 ---
