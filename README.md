@@ -65,8 +65,6 @@ The figure below illustrates representative respiratory cycles extracted from th
 
 ![alt text](/assets/confusionMatrix.png)
 
-```
-
 ---
 
 ##  Implementation & Results
